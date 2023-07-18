@@ -1,8 +1,8 @@
 ## Impact_of_Education_on_Salaries
 
-A data science project 
-
-![Project Image]()
+A data science project analyze the relationship between education levels
+( Bachelor’s, Master’s, PhD) and salaries in a company.
+Using statistical methods, such as one-way ANOVA, linear regression, and multiple linear regression.
 
 ---
 
@@ -23,7 +23,7 @@ Using statistical methods, such as one-way ANOVA, linear regression, and multipl
 Question 1:
 What is the difference in salaries between different groups of employees based on their education levels?
 
-Question 2:What is the difference in salaries between different groups of employees based on their education levels, years of experience, and age variable.
+Question 2:What is the difference in salaries between different groups of employees based on their education levels, years of experience, and age?
 
 ---
 
