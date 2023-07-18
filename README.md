@@ -1,6 +1,6 @@
 ## Impact_of_Education_on_Salaries
 
-A BERT project aims to extract keywords from videos and generate data visualization for the results.
+A data science project 
 
 ![Project Image]()
 
@@ -22,7 +22,18 @@ Using statistical methods, such as one-way ANOVA, linear regression, and multipl
 
 Question 1:
 What is the difference in salaries between different groups of employees based on their education levels?
-![image](https://github.com/jasonmar310/Impact_of_Education_on_Salaries/assets/85038211/c001b99f-4cbb-467a-8138-68343da0a476)
+
+### Hypothesis
+
+H0: There is no significant difference in salaries between different education groups
+
+H1: There is a significant difference in salaries between different education groups
+
+α level: 0.05
+
+Perform the one-way ANOVA (TEST 1) & Linear regression modeling (TEST 2)
+
+
 
 ### About dataset
 Used attributes in this analysis:
@@ -32,7 +43,7 @@ Education.Level: Educational level of each employee
 Salary: Annual salary of each employee
 
 Total rows: 373
-![image](https://github.com/jasonmar310/Impact_of_Education_on_Salaries/assets/85038211/5c93e056-6f62-47ee-b80e-c923749ebbc4)
+
 
 
 #### Technologies
